@@ -19,5 +19,8 @@ Amount Deposited = 2000
 Amount Withdrawed = 500
 Account Balance is 1500
 
+## 📸 Output Screenshot
+![Bank System Output](https://raw.githubusercontent.com/keshavgit23/BankSystem-Java/refs/heads/main/Screenshot_20250629-182509_Chrome.png)
+
 
 
