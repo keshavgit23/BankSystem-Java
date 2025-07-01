@@ -5,12 +5,14 @@ A simple Bank System in Java using Classes and Methods-stimulates deposit,withdr
 - Deposit
 - Withdraw
 - Track Account Balance
+- Check Deposit with Input Validation
 
 ## 📚 Concepts Used
 - Class & Object
 - Method Invocation
 - Encapsulation Basics
 - String and Primitive Handling
+- User Input Validation(if-else)
 
 ## 🚀 Output Sample
 
