@@ -24,6 +24,13 @@ Account Balance is 1500
 ## 📸 Output Screenshot
 ![Bank System Output](https://raw.githubusercontent.com/keshavgit23/BankSystem-Java/refs/heads/main/Screenshot_20250629-182509_Chrome.png)
 
+## ✅ Check Deposit Feature
+
+This feature allows check deposit and balance update.
+
+### 📸 Output Screenshot:
+![Check Feature](assets/check-feature.png)
+
 
 
 
