@@ -29,7 +29,7 @@ Account Balance is 1500
 This feature allows check deposit and balance update.
 
 ### 📸 Output Screenshot:
-![Check Feature](assets/check-feature.png)
+![Check Feature](Screenshot_20250702-185942_Chrome)
 
 
 
