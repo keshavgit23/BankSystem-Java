@@ -6,6 +6,7 @@ A simple Bank System in Java using Classes and Methods-stimulates deposit,withdr
 - Withdraw
 - Track Account Balance
 - Check Deposit with Input Validation
+- Display Mini-Statement 
 
 ## 📚 Concepts Used
 - Class & Object
@@ -13,6 +14,9 @@ A simple Bank System in Java using Classes and Methods-stimulates deposit,withdr
 - Encapsulation Basics
 - String and Primitive Handling
 - User Input Validation(if-else)
+- ArrayList
+- Scanner class
+
 
 ## 🚀 Output Sample
 
